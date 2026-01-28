@@ -6,6 +6,7 @@ ein Mainfile -> fuers erste gemacht
 makefile -> Erledigt, bzw work in progress
 Raspi auslesen 
 Besseres Filemanagement, gerade zur Benennung von Input und outputfile.
+Git aufräumen
 
 Hardware:
 alles ausser raspi
