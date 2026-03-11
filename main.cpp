@@ -24,10 +24,3 @@ int main(){
     return 0;
 
 }
-/*Pseudocode fuer meine Erinnerung und ideen
-while true:
-    Lesen inputsignal
-    Schreiben in txt file
-    txt file auswerten
-    Daten plotten
-*/
